@@ -1,4 +1,4 @@
-# Assignment 2 Exchange matching engine in Go
+# Exchange matching engine in Go
 
 ### Contributors
 
